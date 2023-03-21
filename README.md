@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <h3> About me! </h3> 
-<p> a full-stack developer with a passion for crafting seamless web applications. With [insert number] years of experience under my belt, I specialize in using modern technologies to build scalable and user-friendly interfaces.
+<p> A full-stack developer with a passion for crafting seamless web applications. With some experience under my belt, I specialize in using modern technologies to build scalable and user-friendly interfaces.
 
 As a full-stack developer, I'm equally comfortable working on front-end and back-end technologies. I love tackling complex problems, and I'm always on the lookout for innovative solutions. Whether it's building APIs or using front-end frameworks like React, I'm always eager to take on new challenges.
 
