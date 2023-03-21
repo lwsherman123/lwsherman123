@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
+<h3> About me! </h3> 
+<p> a full-stack developer with a passion for crafting seamless web applications. With [insert number] years of experience under my belt, I specialize in using modern technologies to build scalable and user-friendly interfaces.
+
+As a full-stack developer, I'm equally comfortable working on front-end and back-end technologies. I love tackling complex problems, and I'm always on the lookout for innovative solutions. Whether it's building APIs or using front-end frameworks like React or Vue, I'm always eager to take on new challenges.
+
+What sets me apart is my ability to think creatively and adapt quickly to new technologies. I'm a team player, and I enjoy collaborating with others to bring projects to life. If you're looking for a developer with a passion for building cutting-edge web applications, let's connect! </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lwsherman123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lwsherman123" height="30" width="40" /></a>
