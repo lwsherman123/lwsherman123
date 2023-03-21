@@ -4,7 +4,7 @@
 <h3> About me! </h3> 
 <p> a full-stack developer with a passion for crafting seamless web applications. With [insert number] years of experience under my belt, I specialize in using modern technologies to build scalable and user-friendly interfaces.
 
-As a full-stack developer, I'm equally comfortable working on front-end and back-end technologies. I love tackling complex problems, and I'm always on the lookout for innovative solutions. Whether it's building APIs or using front-end frameworks like React or Vue, I'm always eager to take on new challenges.
+As a full-stack developer, I'm equally comfortable working on front-end and back-end technologies. I love tackling complex problems, and I'm always on the lookout for innovative solutions. Whether it's building APIs or using front-end frameworks like React, I'm always eager to take on new challenges.
 
 What sets me apart is my ability to think creatively and adapt quickly to new technologies. I'm a team player, and I enjoy collaborating with others to bring projects to life. If you're looking for a developer with a passion for building cutting-edge web applications, let's connect! </p>
 
