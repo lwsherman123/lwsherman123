@@ -2,11 +2,9 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <h3> About me! </h3> 
-<p> A full-stack developer with a passion for crafting seamless web applications. With some experience under my belt, I specialize in using modern technologies to build scalable and user-friendly interfaces.
-
-As a full-stack developer, I'm equally comfortable working on front-end and back-end technologies. I love tackling complex problems, and I'm always on the lookout for innovative solutions. Whether it's building APIs or using front-end frameworks like React, I'm always eager to take on new challenges.
-
-What sets me apart is my ability to think creatively and adapt quickly to new technologies. I'm a team player, and I enjoy collaborating with others to bring projects to life. If you're looking for a developer with a passion for building cutting-edge web applications, let's connect! </p>
+<p> Hello! I'm a Data and AI Engineer with nearly two years of experience building AI-driven solutions that allows businesses to unlock the full potential of their data.
+    My expertise lies in Azure, Big Data and DevOps Pipelines, but my true passion is in Artificial Intelligence and Machine Learning. I specialise in developing intelligent applications using the LangChain     ecosystem and other cutting-edge AI technologies, transforming raw data into actionable insights.
+    Whether its automating workflows, enhancing decision-making or creating scalable AI solutions, I thrive when being asked to solve complex challenges with data and AI.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
